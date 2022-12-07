@@ -10,6 +10,6 @@ exemple = data.frame(
 exemple$col1 <- as.numeric(exemple$col1)
 exemple$col2 <- as.character(exemple$col2)
 
-test <- exemple[,'col2'][1]
+test <- exemple[, 'col2'][1]
 
 print(test)
