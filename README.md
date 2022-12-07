@@ -5,5 +5,8 @@ Ce projet a pour objectif de se former à Git puis un jour de devenir formateur 
 ## Etape 1 :
 Lancer le /scripts/script2.R.
 
-### Etape2 :
+### Etape 2 :
 Un jour tu pourras faire quelque chose avec ce projet.
+
+### Etape 3 :
+Relance le fichier /scripts/script2.R
